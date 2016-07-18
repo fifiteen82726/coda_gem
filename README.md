@@ -1,3 +1,5 @@
+https://youtu.be/JR3tlXae73k?t=9m25s
+
 # CodaGem
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coda_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
