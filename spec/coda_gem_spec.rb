@@ -14,7 +14,5 @@ describe CodaGem do
 		CodaGem.create('Animals::Cats::Bombay')
 		expect(defined?(Animals::Cats::Bombay)).to_not eq nil
 
-
-		
 	end
 end
